@@ -15,32 +15,5 @@
         android:layout_height="wrap_content"
         android:id="@+id/textviw"
         android:text="@string/hello_world" />
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hindi"
-        android:layout_alignParentBottom="true"
-        android:onClick="hindi"></Button>
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="French"
-        android:layout_centerInParent="true"
-        android:layout_alignParentBottom="true"
-        android:onClick="French"></Button>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Spanish"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:onClick="Spanish"></Button>
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="English"
-        android:layout_centerInParent="true"
-        android:onClick="English"></Button>
 </RelativeLayout>
